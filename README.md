@@ -1,5 +1,9 @@
 <div align="center">
-  <h1>🛡️ Cybersecurity Architecture Leader | Cloud Security & DevSecOps Expert</h1>
+  <p align="right">
+    <strong>English</strong> | <a href="./README.pt-BR.md">Português Brasileiro</a>
+  </p>
+
+  <h1>🛡️ Raphael Cenerini | Cybersecurity Architecture Leader & Cloud/DevSecOps Expert</h1>
 
   <p align="center">
     <strong>Architecting resilient systems, driving SecOps transformations, and mastering Cloud/Kubernetes security landscapes.</strong>
@@ -61,9 +65,6 @@ I thrive in complex, cloud-native environments, focusing primarily on building '
 A selection of my primary repositories:
 
 *   [**IA-Security-Scan-Github**](https://github.com/rcenerini/IA-Security-Scan-Github) - AI-driven security scanning initiatives.
-*   [**azure-devops-aks**](https://github.com/rcenerini/azure-devops-aks) - Secure pipeline and deployment patterns for Azure DevOps, GitHub, and Azure Container Registry.
-*   [**aprendago**](https://github.com/rcenerini/aprendago) - Golang studies and secure coding practices.
-*   [**jenkinsstudies**](https://github.com/rcenerini/jenkinsstudies) - Automation and integration within Jenkins pipelines.
 
 <br/>
 
